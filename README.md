@@ -1,4 +1,13 @@
-# MATLAB-Unicycle_Control
-This repository contains MATLAB and Simulink files for controlling various parameters associated with a unicycle- like roll angle of the robot arm, pitch angle of the wheel etc.
-<br>
-Author - Arghya Jayant Sinha
+
+# Controlling an Unicycle
+This repository includes codes and related files for controlling and simulating the response of a Unicycle system; particularly controlling the roll and pitch angles of the unicycle and the velocity of the unicycle travelling on a given reference trajectory. This repository contains the following files and codes.
+
+
+
+
+
+## Authors
+
+- [@Arghya-Tech99](https://github.com/Arghya-Tech99)
+
+
